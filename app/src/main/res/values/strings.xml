@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DZ_LS_Coding_challenge</string>
+    <string name="title_text">Список покупок</string>
+    <string name="add_item">Добавить продукты</string>
+</resources>
